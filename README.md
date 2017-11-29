@@ -1,9 +1,12 @@
 # ml_study_py_version
+
 # note: all terminal commands are quoted by ''.
 
 	
 Python version 3.5.* 
+
   	- currently 3.6.* does not support tensorflow lib
+
   	- download link: https://www.python.org/downloads/
   		(recommand 3.5.4 version)
 
