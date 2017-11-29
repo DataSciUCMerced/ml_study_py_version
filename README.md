@@ -36,3 +36,13 @@ Opencv version 3.*
 		- otherwise
 		'pip install opencv-python'
 		'sudo apt-get install opencv'
+
+
+Excellent study materials:
+	https://github.com/ageron/handson-ml 
+	(this is a hands on machine learning with scikit-learn & tensorflow)
+	(there is a very simple book corresponding to the code)
+
+
+	
+
