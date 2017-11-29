@@ -40,7 +40,7 @@ Opencv version 3.*
 
 Excellent study materials:
 	https://github.com/ageron/handson-ml 
-	(this is a hands on machine learning with scikit-learn & tensorflow)
+	(it contains good resources to hands-on machine learning with scikit-learn & tensorflow)
 	(there is a very simple book corresponding to the code)
 
 
