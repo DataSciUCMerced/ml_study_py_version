@@ -30,6 +30,6 @@ Opencv version 3.*
 		simply run 'conda install -c menpo opencv3'
 
 
-                - otherwise
+		- otherwise
 		'pip install opencv-python'
 		'sudo apt-get install opencv'
