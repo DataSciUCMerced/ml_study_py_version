@@ -17,15 +17,22 @@ Opencv version 3.*
 
 	for windows:
 	https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
-		(find link name: 
-			e.g.
+		(find lib names: 
+			
 			opencv_python‑3.3.1‑cp35‑cp35m‑win_amd64.whl
+			numpy-1.13.3+mkl-cp35-cp35m-win_amd64.whl
 			)
 
 		(you need 'pip install' command to load it:
-		e.g. 
-			'pip opencv_python‑3.3.1‑cp35‑cp35m‑win_amd64.whl'
-		If you don't have pip, then use: 'python install -m install' instead. )
+		
+			'pip install opencv_python‑3.3.1‑cp35‑cp35m‑win_amd64.whl'
+			'pip install numpy-1.13.3+mkl-cp35-cp35m-win_amd64.whl'
+		If you don't have pip, then use: 
+		
+			'python install -m install opencv_python‑3.3.1‑cp35‑cp35m‑win_amd64.whl' 
+			'python install -m install numpy-1.13.3+mkl-cp35-cp35m-win_amd64.whl'
+			
+		instead. )
 
 
         for Mac or Linux:
